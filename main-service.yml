@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@//10.0.13.158:1521/csdbtest
+    driver-class-name: oracle.jdbc.driver.OracleDriver
